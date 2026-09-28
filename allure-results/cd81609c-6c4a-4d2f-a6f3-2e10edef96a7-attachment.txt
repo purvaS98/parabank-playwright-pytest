@@ -1,0 +1,10 @@
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:18 Entering username
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:20 Username entered successfully
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:24 Entering password
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:26 Password entered successfully
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:30 Clicking Login button
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:32 Login button clicked successfully
+[32mINFO    [0m pageObjects.accountSummaryPage:accountSummaryPage.py:15 Verifying welcome message is visible
+[32mINFO    [0m pageObjects.accountSummaryPage:accountSummaryPage.py:17 Welcome message is visible
+[32mINFO    [0m pageObjects.accountSummaryPage:accountSummaryPage.py:23 Actual welcome message: 'Welcome Persist User'
+[32mINFO    [0m pageObjects.accountSummaryPage:accountSummaryPage.py:24 Expected welcome message: 'Welcome LESLY FUENTES'

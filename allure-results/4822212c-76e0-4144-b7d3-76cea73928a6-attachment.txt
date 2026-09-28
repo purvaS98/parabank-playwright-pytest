@@ -1,0 +1,10 @@
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:16 Entering username
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:18 Username entered successfully
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:21 Entering password
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:23 Password entered successfully
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:26 Clicking Login button
+[32mINFO    [0m pageObjects.loginPage:loginPage.py:28 Login button clicked successfully
+[32mINFO    [0m pageObjects.accountSummaryPage:accountSummaryPage.py:14 Verifying welcome message is visible
+[32mINFO    [0m pageObjects.accountSummaryPage:accountSummaryPage.py:18 Welcome message is visible
+[32mINFO    [0m pageObjects.accountSummaryPage:accountSummaryPage.py:23 Actual welcome message: 'Welcome testuser2 test'
+[32mINFO    [0m pageObjects.accountSummaryPage:accountSummaryPage.py:24 Expected welcome message: 'Welcome LESLY FUENTES'

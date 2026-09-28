@@ -1,0 +1,10 @@
+2026-09-27 17:14:51,861 - INFO - pageObjects.loginPage - Entering username
+2026-09-27 17:14:52,410 - INFO - pageObjects.loginPage - Username entered successfully
+2026-09-27 17:14:52,410 - INFO - pageObjects.loginPage - Entering password
+2026-09-27 17:14:52,933 - INFO - pageObjects.loginPage - Password entered successfully
+2026-09-27 17:14:52,935 - INFO - pageObjects.loginPage - Clicking Login button
+2026-09-27 17:14:53,850 - INFO - pageObjects.loginPage - Login button clicked successfully
+2026-09-27 17:14:53,851 - INFO - pageObjects.accountSummaryPage - Verifying welcome message is visible
+2026-09-27 17:14:53,874 - INFO - pageObjects.accountSummaryPage - Welcome message is visible
+2026-09-27 17:14:53,878 - INFO - pageObjects.accountSummaryPage - Actual welcome message: 'Welcome Persist User'
+2026-09-27 17:14:53,878 - INFO - pageObjects.accountSummaryPage - Expected welcome message: 'Welcome LESLY FUENTES'
